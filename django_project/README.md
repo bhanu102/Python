@@ -1,0 +1,1 @@
+Deployment of Django Blog App on Ubuntu 20.04 hosted in AWS
